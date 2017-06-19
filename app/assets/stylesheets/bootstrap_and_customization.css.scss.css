@@ -1,0 +1,40 @@
+/* http://littlevisuals.co/
+* https://www.iconfinder.com
+* https://fonts.google.com/
+*/
+
+@import 'bootstrap';
+
+body {
+
+  background: url('white_press.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  line-height: 1;
+  color: white;
+}
+
+.container { 
+  width: 350px; 
+  margin: 100px auto; 
+  padding: 20px; 
+  background-color: rgba(0,0,0,0.2); 
+  border-radius: 40px;
+  text-align: center;
+}
+
+h1 { 
+    font-family: 'Helvetica Neue', 
+    Helvetica; 
+    font-weight: 100; 
+    font-size: 60px;
+  }
+
+p {
+  font-family: 'Montserrat', 
+  sans-serif; 
+  font-weight: 200;
+}
+
+
